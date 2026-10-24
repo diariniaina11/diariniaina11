@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm DIARINIAINA Jean Marc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+%26+Mobile+developper;Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+%26+Mobile+developper;Software+Engineering;Machine+Learning+Engineer;Game+Developpement;Computer+Vision+Engineer" />
 </p>
 
 <h3 align="center">
