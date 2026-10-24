@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm DIARINIAINA Jean Marc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+%26+Mobile+Developer;Cybersecurity+%26+Red+Team;Reverse+Engineering+%26+Binary+Analysis;Geospatial+Engineer;Building+and+Understanding+Systems" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+%26+Mobile+developper;Software+Engineering" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">
