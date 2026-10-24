@@ -1,48 +1,35 @@
 <h1 align="center">Hello, I'm DIARINIAINA Jean Marc</h1>
 
-<p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+%26+Mobile+developper;Software+Engineering;Machine+Learning+Engineer;Game+Developpement;Computer+Vision+Engineer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+stack+%26+Mobile+developper;Software+Engineer;Machine+Learning+Engineer;Game+Developpement;Computer+Vision+Engineer;Automation" />
+</div>
 
 <h3 align="center">
-  Software Engineering • Cybersecurity • Reverse Engineering
+  Software Engineering • Machine Learning/Deep Learning • Automation
 </h3>
 
+
 <p align="center">
-  Building software, exploring system internals, and learning how to identify and understand security weaknesses.
+  <img src="https://skillicons.dev/icons?i=c,python,rust,js,ts,php,dart,linux,docker,git,opencv," />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,rust,js,ts,php,java,dart,linux,docker,git" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lovaxcoding">
-    <img src="https://img.shields.io/badge/GitHub-Lovaxcoding-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/diariniaina11">
+    <img src="https://img.shields.io/badge/GitHub-diariniaina11-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Approach-Learn.%20Hack.%20Defend.-00BFFF?style=for-the-badge" />
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lovaxcoding&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Lovaxcoding?label=Followers&style=social" />
-</p>
 
 ---
 
 # 👨‍💻 About Me
 
 I'm a software engineer with a background in full-stack development,
-mobile applications, and geospatial information systems.
+mobile applications, machine/deep learning and workflow automation.
 
-Beyond building applications, I'm exploring cybersecurity to understand
-how software behaves internally, how vulnerabilities emerge, and how
-systems can be analyzed, tested, and secured.
-
-I enjoy hands-on learning, solving technical challenges, analyzing
-programs, experimenting in controlled environments, and documenting
-what I discover.
+I enjoy hands-on learning, solving technical challenges and analyzing
+programs.
 
 ---
 
