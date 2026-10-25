@@ -172,7 +172,7 @@ and more.
 # 📬 Contact
 
 <p>
-  <a href="mailto:lnantenaina78@email.com">
+  <a href="mailto:jm.diariniaina@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
