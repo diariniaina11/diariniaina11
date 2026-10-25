@@ -166,6 +166,9 @@ and more.
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diariniaina11/diariniaina11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 
 
@@ -182,7 +185,7 @@ and more.
 </p>
 
 <p align="center">
-  <i>Understand the system. Find the weakness. Build it better.</i>
+  <i>Mastering the stack. Solving the problem</i>
 </p>
 
 <p align="center">
