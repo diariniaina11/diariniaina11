@@ -9,18 +9,16 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
-    # Indispensable pour donner les droits d'écriture à GitHub Pages
+
+    # Autorise l'écriture pour que l'action puisse pousser sur GitHub Pages
     permissions:
       contents: write
-      pages: write
-      id-token: write
 
     steps:
-      # 1. Cloner le dépôt pour que l'action puisse travailler dedans
+      # 1. Cloner le dépôt pour préparer la génération
       - uses: actions/checkout@v4
 
-      # 2. Générer le Snake avec votre profil
+      # 2. Générer le Snake avec votre profil GitHub
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Publier le dossier dist/ sur GitHub Pages
+      # 3. Publier les fichiers SVG générés sur la branche de déploiement
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
